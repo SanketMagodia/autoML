@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/project/AutoMl/mlruns/752973884870078273/5bc9ba3e465d420986f35fea470a3e92/artifacts
+deleted_time: 1743030936896
+end_time: 1743030746193
+entry_point_name: ''
+experiment_id: '752973884870078273'
+lifecycle_stage: deleted
+run_id: 5bc9ba3e465d420986f35fea470a3e92
+run_name: nebulous-trout-673
+run_uuid: 5bc9ba3e465d420986f35fea470a3e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743030742708
+status: 3
+tags: []
+user_id: sanke

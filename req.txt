@@ -1,0 +1,7 @@
+autogen
+mlflow
+numpy
+pandas
+streamlit
+AutoMLPipeline
+scikit-learn

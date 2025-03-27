@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/project/AutoMl/mlruns/781754108895743202/8335adbe91be40a99ad0d3b62ba0425c/artifacts
+deleted_time: 1743038082740
+end_time: 1743037070889
+entry_point_name: ''
+experiment_id: '781754108895743202'
+lifecycle_stage: deleted
+run_id: 8335adbe91be40a99ad0d3b62ba0425c
+run_name: Random_Forest_20250326_205747
+run_uuid: 8335adbe91be40a99ad0d3b62ba0425c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743037067930
+status: 3
+tags: []
+user_id: sanke

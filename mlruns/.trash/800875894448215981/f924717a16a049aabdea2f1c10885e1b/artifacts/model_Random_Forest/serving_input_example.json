@@ -1,0 +1,17 @@
+{
+  "inputs": {
+    "Age": 30.0,
+    "Academic Performance (GPA)": 4.0,
+    "Study Hours Per Week": 57.0,
+    "Social Media Usage (Hours per day)": 4.0,
+    "Sleep Duration (Hours per night)": 9.0,
+    "Physical Exercise (Hours per week)": 8.0,
+    "Family Support  ": 1.0,
+    "Financial Stress": 2.0,
+    "Peer Pressure": 1.0,
+    "Relationship Stress": 4.0,
+    "Mental Stress Level": 5.0,
+    "Diet Quality": 2.0,
+    "Cognitive Distortions": 5.0
+  }
+}

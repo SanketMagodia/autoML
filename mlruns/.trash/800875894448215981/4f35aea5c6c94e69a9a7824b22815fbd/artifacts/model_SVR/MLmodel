@@ -1,0 +1,42 @@
+artifact_path: model_SVR
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.1.post1
+is_signature_from_type_hint: false
+mlflow_version: 2.21.2
+model_size_bytes: 62606
+model_uuid: 05b5451766124f809f186dfd4eef093d
+prompts: null
+run_id: 4f35aea5c6c94e69a9a7824b22815fbd
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: json_object
+signature:
+  inputs: '[{"type": "double", "name": "Age", "required": true}, {"type": "double",
+    "name": "Academic Performance (GPA)", "required": true}, {"type": "double", "name":
+    "Study Hours Per Week", "required": true}, {"type": "double", "name": "Social
+    Media Usage (Hours per day)", "required": true}, {"type": "double", "name": "Sleep
+    Duration (Hours per night)", "required": true}, {"type": "double", "name": "Physical
+    Exercise (Hours per week)", "required": true}, {"type": "double", "name": "Family
+    Support  ", "required": true}, {"type": "double", "name": "Financial Stress",
+    "required": true}, {"type": "double", "name": "Peer Pressure", "required": true},
+    {"type": "double", "name": "Relationship Stress", "required": true}, {"type":
+    "double", "name": "Mental Stress Level", "required": true}, {"type": "double",
+    "name": "Diet Quality", "required": true}, {"type": "double", "name": "Cognitive
+    Distortions", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-03-27 01:13:12.494720'

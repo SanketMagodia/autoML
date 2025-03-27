@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/project/AutoMl/mlruns/752973884870078273/0c469c995c254bc780a49bbac7c01176/artifacts
+deleted_time: 1743030936896
+end_time: 1743030748624
+entry_point_name: ''
+experiment_id: '752973884870078273'
+lifecycle_stage: deleted
+run_id: 0c469c995c254bc780a49bbac7c01176
+run_name: capricious-seal-187
+run_uuid: 0c469c995c254bc780a49bbac7c01176
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743030746196
+status: 3
+tags: []
+user_id: sanke

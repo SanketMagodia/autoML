@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/project/AutoMl/mlruns/752973884870078273/dba221ea2e99454eb5f39a5dbf57106f/artifacts
+deleted_time: 1743030936896
+end_time: 1743029880571
+entry_point_name: ''
+experiment_id: '752973884870078273'
+lifecycle_stage: deleted
+run_id: dba221ea2e99454eb5f39a5dbf57106f
+run_name: magnificent-lynx-496
+run_uuid: dba221ea2e99454eb5f39a5dbf57106f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743029878073
+status: 3
+tags: []
+user_id: sanke

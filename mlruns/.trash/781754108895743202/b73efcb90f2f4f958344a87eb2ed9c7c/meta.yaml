@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/project/AutoMl/mlruns/781754108895743202/b73efcb90f2f4f958344a87eb2ed9c7c/artifacts
+deleted_time: 1743038082740
+end_time: 1743037067926
+entry_point_name: ''
+experiment_id: '781754108895743202'
+lifecycle_stage: deleted
+run_id: b73efcb90f2f4f958344a87eb2ed9c7c
+run_name: Linear_Regression_20250326_205743
+run_uuid: b73efcb90f2f4f958344a87eb2ed9c7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743037063865
+status: 3
+tags: []
+user_id: sanke

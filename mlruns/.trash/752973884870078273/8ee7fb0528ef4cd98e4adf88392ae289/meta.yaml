@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/project/AutoMl/mlruns/752973884870078273/8ee7fb0528ef4cd98e4adf88392ae289/artifacts
+deleted_time: 1743030936896
+end_time: 1743030750777
+entry_point_name: ''
+experiment_id: '752973884870078273'
+lifecycle_stage: deleted
+run_id: 8ee7fb0528ef4cd98e4adf88392ae289
+run_name: fortunate-slug-947
+run_uuid: 8ee7fb0528ef4cd98e4adf88392ae289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743030748629
+status: 3
+tags: []
+user_id: sanke

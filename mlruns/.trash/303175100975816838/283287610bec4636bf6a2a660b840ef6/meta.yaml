@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/project/AutoMl/mlruns/303175100975816838/283287610bec4636bf6a2a660b840ef6/artifacts
+deleted_time: 1743028990687
+end_time: 1743028870806
+entry_point_name: ''
+experiment_id: '303175100975816838'
+lifecycle_stage: deleted
+run_id: 283287610bec4636bf6a2a660b840ef6
+run_name: enchanting-stork-727
+run_uuid: 283287610bec4636bf6a2a660b840ef6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743028868657
+status: 3
+tags: []
+user_id: sanke

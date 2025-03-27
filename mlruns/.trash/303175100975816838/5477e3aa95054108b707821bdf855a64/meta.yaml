@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/project/AutoMl/mlruns/303175100975816838/5477e3aa95054108b707821bdf855a64/artifacts
+deleted_time: 1743028990687
+end_time: 1743028868654
+entry_point_name: ''
+experiment_id: '303175100975816838'
+lifecycle_stage: deleted
+run_id: 5477e3aa95054108b707821bdf855a64
+run_name: receptive-hen-78
+run_uuid: 5477e3aa95054108b707821bdf855a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743028866284
+status: 3
+tags: []
+user_id: sanke

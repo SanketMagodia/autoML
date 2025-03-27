@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/project/AutoMl/mlruns/752973884870078273/206aa0ab192441e886f81bc45743ea69/artifacts
+deleted_time: 1743030936896
+end_time: 1743029878070
+entry_point_name: ''
+experiment_id: '752973884870078273'
+lifecycle_stage: deleted
+run_id: 206aa0ab192441e886f81bc45743ea69
+run_name: orderly-hare-824
+run_uuid: 206aa0ab192441e886f81bc45743ea69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743029875602
+status: 3
+tags: []
+user_id: sanke

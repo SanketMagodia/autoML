@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/project/AutoMl/mlruns/752973884870078273/826f0d86013a4ffa819ab80091102a13/artifacts
+deleted_time: 1743030936896
+end_time: 1743029875598
+entry_point_name: ''
+experiment_id: '752973884870078273'
+lifecycle_stage: deleted
+run_id: 826f0d86013a4ffa819ab80091102a13
+run_name: learned-goat-424
+run_uuid: 826f0d86013a4ffa819ab80091102a13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743029872080
+status: 3
+tags: []
+user_id: sanke
